@@ -1,0 +1,242 @@
+[
+  {
+    "id": "hz-vax-01",
+    "date": "2026-11-13",
+    "title": "核对出生疫苗：乙肝①＋卡介苗",
+    "injections": 0,
+    "description": "接种计划提醒：核对出生疫苗：乙肝①＋卡介苗",
+    "category": "记录核对"
+  },
+  {
+    "id": "hz-vax-02",
+    "date": "2026-11-23",
+    "title": "核对接种证及预约乙肝②",
+    "injections": 0,
+    "description": "接种计划提醒：核对接种证及预约乙肝②",
+    "category": "记录核对"
+  },
+  {
+    "id": "hz-vax-03",
+    "date": "2026-12-14",
+    "title": "乙肝②（免费）",
+    "injections": 0,
+    "description": "接种计划提醒：乙肝②（免费）",
+    "category": "国家免费"
+  },
+  {
+    "id": "hz-vax-04",
+    "date": "2026-12-25",
+    "title": "口服五价轮状病毒①（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：口服五价轮状病毒①（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-05",
+    "date": "2027-01-13",
+    "title": "五联①＋13价肺炎结合①（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：五联①＋13价肺炎结合①（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-06",
+    "date": "2027-01-22",
+    "title": "口服五价轮状病毒②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：口服五价轮状病毒②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-07",
+    "date": "2027-02-15",
+    "title": "五联②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：五联②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-08",
+    "date": "2027-02-19",
+    "title": "口服五价轮状病毒③（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：口服五价轮状病毒③（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-09",
+    "date": "2027-03-15",
+    "title": "五联③＋13价肺炎结合②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：五联③＋13价肺炎结合②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-10",
+    "date": "2027-05-17",
+    "title": "乙肝③（免费）＋13价肺炎结合③（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：乙肝③（免费）＋13价肺炎结合③（自费）",
+    "category": "国家免费"
+  },
+  {
+    "id": "hz-vax-11",
+    "date": "2027-05-27",
+    "title": "四价流脑结合①（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：四价流脑结合①（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-12",
+    "date": "2027-06-04",
+    "title": "EV71手足口灭活①（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：EV71手足口灭活①（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-13",
+    "date": "2027-06-28",
+    "title": "四价流脑结合②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：四价流脑结合②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-14",
+    "date": "2027-07-05",
+    "title": "EV71手足口灭活②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：EV71手足口灭活②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-15",
+    "date": "2027-07-13",
+    "title": "麻腮风①＋乙脑减毒活①（免费）",
+    "injections": 0,
+    "description": "接种计划提醒：麻腮风①＋乙脑减毒活①（免费）",
+    "category": "国家免费"
+  },
+  {
+    "id": "hz-vax-16",
+    "date": "2027-09-24",
+    "title": "流感灭活①（当季、自费）",
+    "injections": 0,
+    "description": "接种计划提醒：流感灭活①（当季、自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-17",
+    "date": "2027-10-22",
+    "title": "流感灭活②（视接种史）",
+    "injections": 0,
+    "description": "接种计划提醒：流感灭活②（视接种史）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-18",
+    "date": "2027-11-15",
+    "title": "13价肺炎加强④＋水痘①（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：13价肺炎加强④＋水痘①（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-19",
+    "date": "2028-05-15",
+    "title": "五联加强④＋麻腮风②",
+    "injections": 0,
+    "description": "接种计划提醒：五联加强④＋麻腮风②",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-20",
+    "date": "2028-06-13",
+    "title": "甲肝减毒活①（免费）",
+    "injections": 0,
+    "description": "接种计划提醒：甲肝减毒活①（免费）",
+    "category": "国家免费"
+  },
+  {
+    "id": "hz-vax-21",
+    "date": "2028-09-25",
+    "title": "流感疫苗（2028–29季）",
+    "injections": 0,
+    "description": "接种计划提醒：流感疫苗（2028–29季）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-22",
+    "date": "2028-11-13",
+    "title": "乙脑减毒活②（免费）",
+    "injections": 0,
+    "description": "接种计划提醒：乙脑减毒活②（免费）",
+    "category": "国家免费"
+  },
+  {
+    "id": "hz-vax-23",
+    "date": "2029-09-25",
+    "title": "流感疫苗（2029–30季）",
+    "injections": 0,
+    "description": "接种计划提醒：流感疫苗（2029–30季）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-24",
+    "date": "2029-11-13",
+    "title": "3岁流脑加强（方案核对）",
+    "injections": 0,
+    "description": "接种计划提醒：3岁流脑加强（方案核对）",
+    "category": "记录核对"
+  },
+  {
+    "id": "hz-vax-25",
+    "date": "2029-11-20",
+    "title": "水痘减毒活②（自费）",
+    "injections": 0,
+    "description": "接种计划提醒：水痘减毒活②（自费）",
+    "category": "自费"
+  },
+  {
+    "id": "hz-vax-26",
+    "date": "2030-09-25",
+    "title": "流感疫苗（2030–31季）",
+    "injections": 0,
+    "description": "接种计划提醒：流感疫苗（2030–31季）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-27",
+    "date": "2030-11-13",
+    "title": "4岁核对脊灰完成记录",
+    "injections": 0,
+    "description": "接种计划提醒：4岁核对脊灰完成记录",
+    "category": "记录核对"
+  },
+  {
+    "id": "hz-vax-28",
+    "date": "2031-09-25",
+    "title": "流感疫苗（2031–32季）",
+    "injections": 0,
+    "description": "接种计划提醒：流感疫苗（2031–32季）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-29",
+    "date": "2032-09-27",
+    "title": "流感疫苗（2032–33季）",
+    "injections": 0,
+    "description": "接种计划提醒：流感疫苗（2032–33季）",
+    "category": "接种参考"
+  },
+  {
+    "id": "hz-vax-30",
+    "date": "2032-11-15",
+    "title": "6岁百白破⑤＋流脑剂次核对",
+    "injections": 0,
+    "description": "接种计划提醒：6岁百白破⑤＋流脑剂次核对",
+    "category": "记录核对"
+  }
+]
